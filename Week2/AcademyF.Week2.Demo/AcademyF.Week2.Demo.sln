@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyF.Week2.FactoryPatte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyF.Week2.ChainOfResponsibility", "AcademyF.Week2.ChainOfResponsibility\AcademyF.Week2.ChainOfResponsibility.csproj", "{D08E146D-BEE2-4DFC-B75F-A53279FEB0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyF.Week2.Decorator", "AcademyF.Week2.Decorator\AcademyF.Week2.Decorator.csproj", "{594140C2-BBE3-42A9-9EE6-9E2503EFB696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D08E146D-BEE2-4DFC-B75F-A53279FEB0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D08E146D-BEE2-4DFC-B75F-A53279FEB0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D08E146D-BEE2-4DFC-B75F-A53279FEB0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594140C2-BBE3-42A9-9EE6-9E2503EFB696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594140C2-BBE3-42A9-9EE6-9E2503EFB696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594140C2-BBE3-42A9-9EE6-9E2503EFB696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594140C2-BBE3-42A9-9EE6-9E2503EFB696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

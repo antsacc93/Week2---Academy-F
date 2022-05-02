@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\bin\Debug\net6.0\AcademyF.Week2.Decorator.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\bin\Debug\net6.0\AcademyF.Week2.Decorator.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\bin\Debug\net6.0\AcademyF.Week2.Decorator.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\bin\Debug\net6.0\AcademyF.Week2.Decorator.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\bin\Debug\net6.0\AcademyF.Week2.Decorator.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\refint\AcademyF.Week2.Decorator.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\AcademyF.Week2.Decorator.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Decorator\obj\Debug\net6.0\ref\AcademyF.Week2.Decorator.dll
