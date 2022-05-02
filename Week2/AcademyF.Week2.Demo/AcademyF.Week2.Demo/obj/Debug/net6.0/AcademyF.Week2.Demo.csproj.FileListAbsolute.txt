@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\bin\Debug\net6.0\AcademyF.Week2.Demo.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\bin\Debug\net6.0\AcademyF.Week2.Demo.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\bin\Debug\net6.0\AcademyF.Week2.Demo.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\bin\Debug\net6.0\AcademyF.Week2.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\bin\Debug\net6.0\AcademyF.Week2.Demo.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\refint\AcademyF.Week2.Demo.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\AcademyF.Week2.Demo.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo\obj\Debug\net6.0\ref\AcademyF.Week2.Demo.dll
