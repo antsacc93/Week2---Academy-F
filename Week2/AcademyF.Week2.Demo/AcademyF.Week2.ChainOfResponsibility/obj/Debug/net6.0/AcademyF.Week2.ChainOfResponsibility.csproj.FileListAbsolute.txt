@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\bin\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\bin\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\bin\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\bin\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\bin\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\refint\AcademyF.Week2.ChainOfResponsibility.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\AcademyF.Week2.ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.ChainOfResponsibility\obj\Debug\net6.0\ref\AcademyF.Week2.ChainOfResponsibility.dll

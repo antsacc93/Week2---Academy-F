@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\bin\Debug\net6.0\AcademyF.Week2.FactoryPattern.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\bin\Debug\net6.0\AcademyF.Week2.FactoryPattern.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\bin\Debug\net6.0\AcademyF.Week2.FactoryPattern.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\bin\Debug\net6.0\AcademyF.Week2.FactoryPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\bin\Debug\net6.0\AcademyF.Week2.FactoryPattern.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\refint\AcademyF.Week2.FactoryPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\AcademyF.Week2.FactoryPattern.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.FactoryPattern\obj\Debug\net6.0\ref\AcademyF.Week2.FactoryPattern.dll
