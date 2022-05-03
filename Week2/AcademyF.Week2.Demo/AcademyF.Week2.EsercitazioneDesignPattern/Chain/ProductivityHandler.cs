@@ -2,11 +2,11 @@
 
 namespace AcademyF.Week2.EsercitazioneDesignPattern.Chain
 {
-    public class ProductivityHandler : IHandler
+    public class ProductivityHandler : AbstractHandler
     {
         public int Y { get; }
         public int W { get;  }
-        public IHandler NextHandler { get; private set; }
+        
 
         public ProductivityHandler(int y, int w)
         {
@@ -14,17 +14,14 @@ namespace AcademyF.Week2.EsercitazioneDesignPattern.Chain
             W = w;
         }
 
-        public double HandleRequest(Employee employee)
+        public override double HandleRequest(Employee employee)
         {
             if (employee.Age < Y && employee.ProductivityRate > W)
                 return 300.0;
             else
-                return 0;
+                return base.HandleRequest(employee);
         }
 
-        public void SetNext(IHandler absenceHandler)
-        {
-            NextHandler = absenceHandler;
-        }
+        
     }
 }

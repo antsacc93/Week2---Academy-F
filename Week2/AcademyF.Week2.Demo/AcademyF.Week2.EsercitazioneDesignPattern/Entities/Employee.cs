@@ -9,5 +9,10 @@
         public int Age { get { return DateTime.Now.Year - DateOfBirth.Year; } }
         public int ProductivityRate { get; set; }
         public int AbsenceRate { get; set; }
+
+        public virtual string ViewBenefit()
+        {
+            return "";
+        }
     }
 }
