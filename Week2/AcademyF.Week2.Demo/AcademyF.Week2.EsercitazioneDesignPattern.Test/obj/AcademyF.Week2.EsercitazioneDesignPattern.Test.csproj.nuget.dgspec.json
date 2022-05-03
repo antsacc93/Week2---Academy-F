@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern.Test\\AcademyF.Week2.EsercitazioneDesignPattern.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern.Test\\AcademyF.Week2.EsercitazioneDesignPattern.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern.Test\\AcademyF.Week2.EsercitazioneDesignPattern.Test.csproj",
+        "projectName": "AcademyF.Week2.EsercitazioneDesignPattern.Test",
+        "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern.Test\\AcademyF.Week2.EsercitazioneDesignPattern.Test.csproj",
+        "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\AcademyF.Week2.EsercitazioneDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\AcademyF.Week2.EsercitazioneDesignPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\AcademyF.Week2.EsercitazioneDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\AcademyF.Week2.EsercitazioneDesignPattern.csproj",
+        "projectName": "AcademyF.Week2.EsercitazioneDesignPattern",
+        "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\AcademyF.Week2.EsercitazioneDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\AcademyF\\Week2\\AcademyF.Week2.Demo\\AcademyF.Week2.EsercitazioneDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

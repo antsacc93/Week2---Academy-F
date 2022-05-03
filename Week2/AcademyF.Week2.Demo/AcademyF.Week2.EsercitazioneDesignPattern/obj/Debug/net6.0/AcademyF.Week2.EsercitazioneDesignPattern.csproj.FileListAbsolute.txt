@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\refint\AcademyF.Week2.EsercitazioneDesignPattern.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneDesignPattern.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneDesignPattern\obj\Debug\net6.0\ref\AcademyF.Week2.EsercitazioneDesignPattern.dll
