@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\bin\Debug\net6.0\AcademyF.Week2.Demo.Eventi.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\bin\Debug\net6.0\AcademyF.Week2.Demo.Eventi.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\bin\Debug\net6.0\AcademyF.Week2.Demo.Eventi.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\bin\Debug\net6.0\AcademyF.Week2.Demo.Eventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\bin\Debug\net6.0\AcademyF.Week2.Demo.Eventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\refint\AcademyF.Week2.Demo.Eventi.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\AcademyF.Week2.Demo.Eventi.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Eventi\obj\Debug\net6.0\ref\AcademyF.Week2.Demo.Eventi.dll

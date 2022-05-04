@@ -12,5 +12,7 @@ namespace AcademyF.Week2.ChainOfResponsibility.Handler
         IHandler SetNext(IHandler handler);
         //Metodo per gestire la richiesta
         string Handle(string richiesta);
+        
+        
     }
 }

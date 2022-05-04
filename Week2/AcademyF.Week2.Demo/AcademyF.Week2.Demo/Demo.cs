@@ -8,6 +8,9 @@ namespace AcademyF.Week2.Demo
 {
     public static class Demo
     {
+
+        delegate int Sum(int first, int second);
+
         public static void DemoObject()
         {
             Person person = new Person()
@@ -88,6 +91,32 @@ namespace AcademyF.Week2.Demo
             Console.WriteLine(emp.CalculateSalary());
             Console.WriteLine(employee);
             
+        }
+
+        public static void DemoDelegate()
+        {
+            Sum somma = new Sum(MySum);
+            Sum sommaAlternativa = new Sum(MySomma2);
+
+            //Sum sommaDiversa = new Sum(MySommaNonValida);
+
+            Console.WriteLine("Risultato somma: " + somma(4, 5));
+            Console.WriteLine("Risultato somma alternativa: " + sommaAlternativa(7, 8));
+        }
+
+        public static int MySum(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static int MySomma2(int c, int d)
+        {
+            return c * 1 + d * 1;
+        }
+
+        public static int MySommaNonValida(int p)
+        {
+            return p * 6;
         }
 
     }
