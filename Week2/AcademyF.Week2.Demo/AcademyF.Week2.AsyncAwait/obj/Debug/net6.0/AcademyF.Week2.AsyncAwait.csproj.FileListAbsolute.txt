@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\bin\Debug\net6.0\AcademyF.Week2.AsyncAwait.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\bin\Debug\net6.0\AcademyF.Week2.AsyncAwait.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\bin\Debug\net6.0\AcademyF.Week2.AsyncAwait.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\bin\Debug\net6.0\AcademyF.Week2.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\bin\Debug\net6.0\AcademyF.Week2.AsyncAwait.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\refint\AcademyF.Week2.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\AcademyF.Week2.AsyncAwait.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.AsyncAwait\obj\Debug\net6.0\ref\AcademyF.Week2.AsyncAwait.dll
