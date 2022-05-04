@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\refint\AcademyF.Week2.EsercitazioneMessagistica.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneMessagistica.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneMessagistica\obj\Debug\net6.0\ref\AcademyF.Week2.EsercitazioneMessagistica.dll
