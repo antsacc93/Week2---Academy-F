@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\bin\Debug\net6.0\AcademyF.Week2.Demo.Linq.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\bin\Debug\net6.0\AcademyF.Week2.Demo.Linq.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\bin\Debug\net6.0\AcademyF.Week2.Demo.Linq.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\bin\Debug\net6.0\AcademyF.Week2.Demo.Linq.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\bin\Debug\net6.0\AcademyF.Week2.Demo.Linq.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\refint\AcademyF.Week2.Demo.Linq.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\AcademyF.Week2.Demo.Linq.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.Demo.Linq\obj\Debug\net6.0\ref\AcademyF.Week2.Demo.Linq.dll
