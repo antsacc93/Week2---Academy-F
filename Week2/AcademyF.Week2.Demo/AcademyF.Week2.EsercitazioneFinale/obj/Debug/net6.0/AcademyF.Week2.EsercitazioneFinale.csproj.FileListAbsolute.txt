@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.exe
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.deps.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\bin\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\refint\AcademyF.Week2.EsercitazioneFinale.dll
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.pdb
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\AcademyF.Week2.EsercitazioneFinale.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\AcademyF\Week2\AcademyF.Week2.Demo\AcademyF.Week2.EsercitazioneFinale\obj\Debug\net6.0\ref\AcademyF.Week2.EsercitazioneFinale.dll
